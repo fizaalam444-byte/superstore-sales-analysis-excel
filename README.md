@@ -1,9 +1,5 @@
 #### *Superstore Sales Analysis Dashboard*
 
-
-
-###### *Project Overview*
-
 ##### 
 
 ###### *This project analyzes Superstore sales data using Microsoft Excel.*
